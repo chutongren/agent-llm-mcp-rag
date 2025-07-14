@@ -27,20 +27,13 @@ An **augmented LLM agent** that combines:
 
 - We live in an age of information explosion, where the quality of information varies widely. If you want answers that are accurate and relevant, they can be based on for example: Your own class notes, High-quality resources (website/local files)
 
-  
-
-## 📊 Flowchart
-
-![Flowchart](images/flowchart.jpg)
-
 ## ✍️ Handwritten Notes
 
 ![Handwritten Notes](images/handwritten-note.jpg)
 
-## 🔍 Project References
+## 📊 Flow Chart
 
-- [KelvinQiu802/llm-mcp-rag](https://github.com/KelvinQiu802/llm-mcp-rag) – design and structure  
-- [StrayDragon/exp-llm-mcp-rag (Python)](https://github.com/StrayDragon/exp-llm-mcp-rag/tree/main) – Python version
+![](images/flowchart.jpg)
 
 ## 🛠️ Getting Started
 
@@ -58,3 +51,9 @@ pnpm install
 npm add dotenv openai @modelcontextprotocol/sdk chalk
 cursor .
 pnpm run dev
+```
+
+## 🔍 Project References
+
+- [KelvinQiu802/llm-mcp-rag](https://github.com/KelvinQiu802/llm-mcp-rag) – design and structure  
+- [StrayDragon/exp-llm-mcp-rag (Python)](https://github.com/StrayDragon/exp-llm-mcp-rag/tree/main) – Python version
